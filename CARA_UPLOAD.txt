@@ -1,0 +1,23 @@
+ZAIN.NET — CARA UPLOAD KE GITHUB PAGES
+
+1. Extract ZIP.
+2. Buka GitHub -> New repository.
+3. Buat repository baru.
+4. Pilih "uploading an existing file".
+5. Upload SEMUA file di folder hasil extract langsung ke ROOT repository:
+   - index.html
+   - app.js
+   - article-ai.js
+   - docx-engine.js
+   - styles.css
+   - jszip.min.js
+   - README.md
+   - CARA_UPLOAD.txt
+6. Commit changes.
+7. Settings -> Pages.
+8. Build and deployment -> Deploy from a branch.
+9. Branch: main, folder: / (root).
+10. Save dan tunggu sampai Pages aktif.
+
+PENTING:
+Jangan upload folder pembungkusnya. index.html harus terlihat langsung di halaman utama repository.
